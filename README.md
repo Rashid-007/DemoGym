@@ -1,2 +1,2 @@
 # DemoGym
-A Gym Website created to demo a Java/AngularJs Stack.
+A Gym Website created to demo Spring Boot  and AngularJs.
