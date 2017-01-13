@@ -1,0 +1,21 @@
+INSERT INTO employee (Employee_Id, First_Name, Last_Name, Employee_Number, Phone_Number) VALUES (1, 'Tyler', 'Sadler', '0000', '3142870365');
+INSERT INTO employee (Employee_Id, First_Name, Last_Name, Employee_Number, Phone_Number) VALUES (2, 'Daniel', 'Drapp', '0001', '6364759128');
+INSERT INTO employee (Employee_Id, First_Name, Last_Name, Employee_Number, Phone_Number) VALUES (3, 'Andrew', 'Dunn', '0002', '3145781918');
+INSERT INTO employee (Employee_Id, First_Name, Last_Name, Employee_Number, Phone_Number) VALUES (4, 'James', 'Smith', '0003', '6364799175');
+INSERT INTO employee (Employee_Id, First_Name, Last_Name, Employee_Number, Phone_Number) VALUES (5, 'Sarah', 'Sadler', '0004', '5739285544');
+
+INSERT INTO member (Member_Id, First_Name, Last_Name, Phone_Number) VALUES (1, 'Kyle', 'Sadler', '6362089711');
+INSERT INTO member (Member_Id, First_Name, Last_Name, Phone_Number) VALUES (2, 'Tim', 'Beam', '3145437658');
+INSERT INTO member (Member_Id, First_Name, Last_Name, Phone_Number) VALUES (3, 'Ashly', 'York', '3149373665');
+INSERT INTO member (Member_Id, First_Name, Last_Name, Phone_Number) VALUES (4, 'Jennifer', 'Rider', '6369335686');
+INSERT INTO member (Member_Id, First_Name, Last_Name, Phone_Number) VALUES (5, 'Alisha', 'White', '5739875532');
+INSERT INTO member (Member_Id, First_Name, Last_Name, Phone_Number) VALUES (6, 'Sam', 'Backstair', '8005689945');
+INSERT INTO member (Member_Id, First_Name, Last_Name, Phone_Number) VALUES (7, 'John', 'Doe', '3144589965');
+INSERT INTO member (Member_Id, First_Name, Last_Name, Phone_Number) VALUES (8, 'Matt', 'Miller', '5735471236');
+INSERT INTO member (Member_Id, First_Name, Last_Name, Phone_Number) VALUES (9, 'Jeff', 'Griffin', '6362081197');
+INSERT INTO member (Member_Id, First_Name, Last_Name, Phone_Number) VALUES (10, 'Katie', 'Green', '6367874569');
+INSERT INTO member (Member_Id, First_Name, Last_Name, Phone_Number) VALUES (11, 'Susan', 'Sadler', '8009999786');
+INSERT INTO member (Member_Id, First_Name, Last_Name, Phone_Number) VALUES (12, 'Shari', 'Brown', '9005432877');
+INSERT INTO member (Member_Id, First_Name, Last_Name, Phone_Number) VALUES (13, 'Steve', 'Williams', '6368025544');
+INSERT INTO member (Member_Id, First_Name, Last_Name, Phone_Number) VALUES (14, 'Alex', 'Roberts', '5737652122');
+INSERT INTO member (Member_Id, First_Name, Last_Name, Phone_Number) VALUES (15, 'Jessica', 'Lively', '5884962211');
