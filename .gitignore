@@ -22,6 +22,5 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-/.mvn/
 /src/main/webapp/vendor/
 /lib/
