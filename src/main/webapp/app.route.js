@@ -10,6 +10,24 @@
                 templateUrl: 'partial/home/home.html',
                 controller: 'HomeController'
             })
+            .when('/about', {
+                templateUrl: 'partial/about/about.html'
+            })
+            .when('/signUp', {
+                templateUrl: 'partial/signUp/signUp.html'
+            })
+            .when('/classes', {
+                templateUrl: 'partial/classes/classes.html'
+            })
+            .when('/PT', {
+                templateUrl: 'partial/personalTraining/personalTraining.html'
+            })
+            .when('/signIn', {
+                templateUrl: 'partial/logIn/logIn.html'
+            })
+            .when('/admin', {
+                templateUrl: 'partial/admin/admin.html'
+            })
             .otherwise({redirectTo: '/home'})
     }
 })(angular);
