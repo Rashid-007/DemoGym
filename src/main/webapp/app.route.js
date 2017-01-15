@@ -22,11 +22,8 @@
             .when('/PT', {
                 templateUrl: 'partial/personalTraining/personalTraining.html'
             })
-            .when('/signIn', {
-                templateUrl: 'partial/logIn/logIn.html'
-            })
             .when('/admin', {
-                templateUrl: 'partial/admin/admin.html'
+                templateUrl: 'partial/logIn/admin.html'
             })
             .otherwise({redirectTo: '/home'})
     }

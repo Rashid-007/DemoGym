@@ -35,9 +35,10 @@
     margin-left: auto;
     margin-right: auto;
     background-color: rgba(221,221,221,0.8);
-    border-style: inset;
+    border-style: solid;
     border-color: gray;
-    border-radius: 10px;
+    border-width: 1px;
+    border-radius: 5px;
     padding: 5px;
     width: 300px;
 }
@@ -80,12 +81,4 @@
     background-size: cover;
     background-color: gray;
     background-image: url("asset/personal-background.jpg");
-}
-.admin-background{
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-    background-color: gray;
-    background-image: url("asset/admin-background.jpg");
 }
