@@ -23,7 +23,7 @@
                 templateUrl: 'partial/personalTraining/personalTraining.html'
             })
             .when('/admin', {
-                templateUrl: 'partial/logIn/admin.html'
+                templateUrl: 'partial/admin/admin.html'
             })
             .otherwise({redirectTo: '/home'})
     }

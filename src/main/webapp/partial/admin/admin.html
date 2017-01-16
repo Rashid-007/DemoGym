@@ -1,4 +1,4 @@
-<div class="login">
+<div class="login" ng-controller="AdminController">
     <div class="text-center">
         <div class="login-background">
             <h1>Log In</h1>
@@ -8,6 +8,16 @@
                 <button class="btn btn-success">Log In</button>
                 <button class="btn btn-danger">Cancel</button>
             </form>
+        </div>
+    </div>
+    <div class="col col-md-6">
+        <div class="table-background">
+            <member-table></member-table>
+        </div>
+    </div>
+    <div class="col col-md-6">
+        <div class="table-background">
+            <employee-table></employee-table>
         </div>
     </div>
 </div>
